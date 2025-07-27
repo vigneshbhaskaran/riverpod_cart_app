@@ -1,10 +1,18 @@
 # riverpod_ecommerce
 
-A new Flutter project.
+A Flutter e-commerce demo app using Riverpod for state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter application is a lightweight e-commerce demo that allows users to browse products and manage their shopping cart. It's built using Riverpod for state management and follows best practices for clean and reactive Flutter development.
+
+### Features
+
+1.Product listing with dynamic UI
+2.Add/remove items from cart
+3.Riverpod's Notifier/Provider state management
+4.Modular and maintainable architecture
+
 
 A few resources to get you started if this is your first Flutter project:
 
